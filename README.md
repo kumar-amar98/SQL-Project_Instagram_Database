@@ -1,10 +1,10 @@
-# SQL-Project
+# Instagram Database Clone project based on MySQL
 
 Instagram Database Project: This project is based on Instagram data which we commonly use in our day-to-day life. This Database contains many tables like User, Photos,tags,comments,followers etc.
 
 Aim: The aim of this project is to understand the application of the SQL.
 
-Topic convered:
+## Topic convered:
 1) How database is created?
 2) How to use database?
 3) How to create table design/ schema?
